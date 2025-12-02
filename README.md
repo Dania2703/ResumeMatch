@@ -36,7 +36,7 @@ and **multiple ML models** to calculate a match score and provide explainability
 ## 📊 Results & Visualizations
 
 ### **1. Embedding Similarity Visualization**
-![Uploading image.png…]()
+![Embedding Plot](img_0.png)
 
 
 ### **2. Sample Model Predictions**
