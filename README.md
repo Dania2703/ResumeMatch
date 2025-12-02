@@ -36,7 +36,8 @@ and **multiple ML models** to calculate a match score and provide explainability
 ## 📊 Results & Visualizations
 
 ### **1. Embedding Similarity Visualization**
-![Embedding Plot](resumematch_images/img_0.png)
+![Uploading image.png…]()
+
 
 ### **2. Sample Model Predictions**
 ![Prediction Sample](resumematch_images/img_1.png)
@@ -86,11 +87,11 @@ You can include them as needed:
 pip install -r requirements.txt
 
 
---🤝 Contributing
+##🤝 Contributing
 
 Pull requests are welcome!
 For major changes, please open an issue first to discuss what you would like to change.
 
---📜 License
+##📜 License
 
 This project is for academic and learning purposes.
